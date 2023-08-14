@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Planting Recommendation
 This notebook contains an exploratory data analysis and recommendation based on the "Crop Recommendation" dataset available from Kaggle.
 The specific dataset used in this project can be found at https://www.kaggle.com/datasets/aksahaha/crop-recommendation.
